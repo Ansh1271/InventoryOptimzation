@@ -1,4 +1,4 @@
-### Inventory Optimzation techniques Using Machine-Learning models
+# Inventory Optimzation techniques Using Machine-Learning models
 ## 📚 Table of Contents
 
 1. [Description](#description)
