@@ -26,14 +26,14 @@ This solution is ideal for small to mid-sized businesses looking to introduce da
 
 ### ⭐ Key Features
 
-* 📊 **Interactive Dashboard:** Built with Streamlit for a smooth and user-friendly experience
-* 📅 **Automated Time Series Feature Engineering:** Extracts day, week, month, seasonality, and lag features from date columns
-* 🤖 **Robust Forecasting Engine:** Utilizes Random Forest Regression for reliable and explainable predictions
-* 📈 **Forecast Visualization:** Visual comparison of historical and predicted data using Plotly charts
-* 📥 **Data Upload Support:** Easily ingest custom datasets in CSV format
-* 🧠 **Model Evaluation:** Tracks accuracy using metrics like RMSE, MAE, R², and provides detailed error analysis
-* 💾 **Model Persistence:** Save and reload models using pickle for repeatable workflows
-* 📤 **Downloadable Forecasts:** Export results in CSV format for business reporting or integration
+*  **Interactive Dashboard:** Built with Streamlit for a smooth and user-friendly experience
+*  **Automated Time Series Feature Engineering:** Extracts day, week, month, seasonality, and lag features from date columns
+*  **Robust Forecasting Engine:** Utilizes Random Forest Regression for reliable and explainable predictions
+*  **Forecast Visualization:** Visual comparison of historical and predicted data using Plotly charts
+*  **Data Upload Support:** Easily ingest custom datasets in CSV format
+*  **Model Evaluation:** Tracks accuracy using metrics like RMSE, MAE, R², and provides detailed error analysis
+*  **Model Persistence:** Save and reload models using pickle for repeatable workflows
+*  **Downloadable Forecasts:** Export results in CSV format for business reporting or integration
 
 ---
 
